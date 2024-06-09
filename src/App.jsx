@@ -1,6 +1,7 @@
 import Header from "./components/header-section/header";
 import Hero from "./components/hero-section/hero";
 import './App.css'
+import Companies from "./components/Companies/companies";
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
         <div className="white-gradient"/>
         <Header/>
         <Hero />
-      </div>      
+      </div>     
+      <Companies/> 
     </div>
   );
 }
