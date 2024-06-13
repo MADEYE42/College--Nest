@@ -1,0 +1,10 @@
+.g-wrapper{
+    background:var(--blue);
+    width: 80%;
+    border: 8px solid var(--blue,0.45);
+    border-radius: 6px;
+    overflow: hidden;
+}
+h2{
+color: white;
+}
