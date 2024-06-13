@@ -7,6 +7,9 @@
     padding-bottom: 1rem;
     color: var(--secondary);
 }
+.button{
+    color: black;
+}
 .h-menu{
     gap: 2rem;
 }
